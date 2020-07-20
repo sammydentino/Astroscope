@@ -1,0 +1,2 @@
+# Astroscope
+Astrology &amp; Horoscopes
