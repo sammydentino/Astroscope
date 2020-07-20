@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "5974383e734d1d6202a9080e",
+    "description": [
+      "Cardinal signs (also called by older astrologers a moveable sign) are associated with being active, self-motivated, insightful and ambitious",
+      " Observable of ills and issues in their environment, they have keen qualities in great leadership and initiating change",
+      " They can, on the other hand, be bossy, inconsiderate and domineering, as they feel their way is the best for everyone to follow",
+      "These people usually responds to conflict with a bold, decisive, instinctive action in an attempt to trump the assault",
+      " They are easily motivated to start tasks"
+    ],
+    "cardinality_contents": [
+      "Aries",
+      "Cancer",
+      "Libra",
+      "Capricorn"
+    ],
+    "cardinality_name": "Cardinal"
+  },
+  {
+    "_id": "5973d1434d75a100114e1d7b",
+    "__v": 0,
+    "description": [
+      "Fixed signs are associated with stabilization, determination, depth and persistence",
+      " On the other hand, they are also inflexible, rigid, stubborn, opinionated and single-minded",
+      "These people tend to hold in their reaction and respond that the attempt to hurt them was futile, with passive aggressive behavior or with silence",
+      " They concentrate on finishing things well"
+    ],
+    "cardinality_contents": [
+      "Taurus",
+      " Leo",
+      " Scorpio",
+      " Aquarius"
+    ],
+    "cardinality_name": "Fixed"
+  },
+  {
+    "_id": "59743716734d1d6202a907c0",
+    "description": [
+      "Mutable signs are associated with adaptability, flexibility and sympathy",
+      " These signs mediate change and change their modes of expression frequently in order to meet this end, and they are often described as being diplomatic and assisting others through transitions",
+      " On the other hand, because of their dualistic behavior, they can often be inconsistent, uncommitted and come off as unreliable",
+      "These people tend to be artful with conflicts, and are known to try to avoid arguments",
+      " They are good at motivating people"
+    ],
+    "cardinality_contents": [
+      "Gemini",
+      " Virgo",
+      " Sagittarius",
+      " Pisces"
+    ],
+    "cardinality_name": "Mutable"
+  }
+]
