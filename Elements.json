@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "597434bd734d1d6202a90782",
+    "element_ascendant": [
+      "The earth signs of Taurus, Virgo and Capricorn are noted for their practicality and security",
+      " When an earth sign is on the ascendant the outer manner is shy, serious and cautious",
+      " Taurus risers are the most sociable of the three and are often musical or artistic",
+      " Virgo risers look for mental stimulation in others, while Capricorn risers enjoy both work and social pursuits",
+      " People with these ascendants send out signals which are pleasant and tactful suggesting that they prefer to form part of a team - at least to begin with - than to push themselves immediately to the front"
+    ],
+    "description": [
+      "These people are physical and passive",
+      " They are perfectionists, hard-working, and tend to be introverted",
+      " They are confident, reliable, consistent, and understanding of many things",
+      " They're often overlooked but they, in a lot of ways, hold society together",
+      " In a word, they are the back-bone"
+    ],
+    "element_contents": [
+      "Taurus",
+      " Virgo",
+      " Capricorn"
+    ],
+    "element_name": "Earth"
+  },
+  {
+    "_id": "5973d1244d75a100114e1d7a",
+    "__v": 0,
+    "element_ascendant": [
+      "The fire signs of Aries, Leo and Sagittarius are noted for their energy, enthusiasm and optimism",
+      " When a fire sign is on the ascendant the outer manner is friendly, uncritical and non-hostile, which makes such people good mixers and public relations executives",
+      " They typically send out friendly, but professionally competent signals which draw out a friendly and rather respectful response from others",
+      " Aries rising gives out a well-organized, slightly military bearing which makes them fit for any kind of military or civil service organization",
+      " Leo rising subjects have a dignified and rather formal manner which inspires confidence; while Sagittarius risers have a cheerful, pleasant and rather witty outer manner which suits all kinds of teaching, training and public speaking situations"
+    ],
+    "description": [
+      "These people are physical and active",
+      " They tend to be rude and selfish, headstrong, confident, talented, charismatic, sociable, in good shape, and into sports",
+      " In a word, they are the doers"
+    ],
+    "element_contents": [
+      "Aries",
+      " Leo",
+      " Sagittarius"
+    ],
+    "element_name": "Fire"
+  },
+  {
+    "_id": "59743541734d1d6202a9079b",
+    "element_ascendant": [
+      "The air signs of Gemini, Libra and Aquarius are noted for their communication skills",
+      " When an air sign is on the ascendant the subject is friendly and sociable, but also independent and somewhat detached",
+      " The Gemini riser is constantly busy, fully engaged in a kind of juggling act, with at least a dozen activities on the go at any one time",
+      " The Libra riser occupies him or herself with business schemes which often need the aid of a more earthy partner to make them come into fruition",
+      " The Aquarius riser makes wonderful plans for himself and others and may even carry some of them out"
+    ],
+    "description": [
+      "These people are mental and active",
+      " They are intelligent, interested in knowledge, energetic, charming, and good with words",
+      " They tend to be too changeable, articulate, and optimistic",
+      " In a word, they are the thinkers"
+    ],
+    "element_contents": [
+      "Gemini",
+      " Libra",
+      " Aquarius"
+    ],
+    "element_name": "Air"
+  },
+  {
+    "_id": "5974359c734d1d6202a907a7",
+    "element_ascendant": [
+      "The water signs of Cancer, Scorpio and Pisces are noted for their emotion, intuition and feeling",
+      " When a water sign is on the ascendant the subject will hide their true feelings and have a strong need to protect themselves from the world around them",
+      " What you see is often not what you get with water ascendants",
+      " In other words, the signals they send out are consciously or unconsciously chosen for effect",
+      " Cancerians appear chatty and helpful and they do well in any situation that requires tact",
+      " Scorpio risers can use many different forms of camouflage with people they do not know, one of their favourites being offensiveness and an off-putting manner",
+      " Pisces risers appear soft, gentle, self-sacrificing and sometimes even helpless, but this is misleading, as they will fight strongly for what they think is right"
+    ],
+    "description": [
+      "These people are emotional and passive",
+      " They are emotionally sensitive, and deep",
+      " They are capable of powerful thoughts and actions; they are passionate and sexual",
+      " They are very intuitive and can almost seem psychic",
+      " In a word, they are the feelers"
+    ],
+    "element_contents": [
+      "Cancer",
+      " Scorpio",
+      " Pisces"
+    ],
+    "element_name": "Water"
+  }
+]
